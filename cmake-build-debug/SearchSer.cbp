@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SearchSer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coursera_red_final">
+				<Option output="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/coursera_red_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 coursera_red_final"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coursera_red_final/fast">
+				<Option output="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/coursera_red_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 coursera_red_final/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/aasmc/CLionProjects/SimpleSearchServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/iterator_range.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/main.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/parse.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/parse.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/parse_official.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/parse_official.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/profile.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/profile_advanced.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/profile_advanced.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/search_server.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/search_server.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/synchronized.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/test_runner.cpp">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/test_runner.h">
+			<Option target="coursera_red_final"/>
+		</Unit>
+		<Unit filename="/Users/aasmc/CLionProjects/SimpleSearchServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
